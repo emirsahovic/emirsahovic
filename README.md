@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/emir-šahović-104b94223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-šahović-104b94223/" height="30" width="40" /></a>
+<a href="https://www.emirsahovic.com/" target="blank"><img align="center" src="https://www.pngkey.com/png/detail/17-176578_png-file-svg-browser-icon-png.png" height="35" width="45" /></a>
 </p>
 
 <br />
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 <h3 align="left">Backend technologies:</h3>
