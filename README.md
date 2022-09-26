@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">Software engineering student passionate about full stack development.</h3>
+<h3 align="center">Software engineer passionate about full stack development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
