@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/emir-šahović-104b94223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-šahović-104b94223/" height="30" width="40" /></a>
   &nbsp;
-<a href="https://www.emirsahovic.com/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_504359.png" height="32" width="38" /></a>
 </p>
 
 <br />
